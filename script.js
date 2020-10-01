@@ -76,8 +76,8 @@ console.log(double)
 //Lista alla Items från numbers arrayn via en forEach loop
 numbers.forEach(list)
 
-function list(item, index) {
-  console.log(index + item + "\n")
+function list(item) {
+  console.log(item + "\n")
 }
 
 //Upgift 7 skapa en while loop som loopar 6 gånger
